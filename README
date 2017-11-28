@@ -1,0 +1,12 @@
+1. Find awesome wallpapers on https://unsplash.com
+	DivestOS Specific Criteria
+		- Must be landscape
+		- Must be high-res
+		- Must be of nature
+		- Must not contain people/animals/creatures/objects
+		- Bridges and small buildings are okay
+		- Must not contain too much of one color (eg. a lot of snow or too many trees)
+2. Download them into RAW
+3. Run Format.sh
+4. Manually update CREDITS and wallpapers.xml
+5. Thats it!
