@@ -26,8 +26,8 @@ cp -r RAW/. Compressed/
 cp -r RAW/. Thumbs/
 
 #Resize the files
-#mogrify -resize 2560x1440 Compressed/*.jpg #Fix this res
-mogrify -resize 213x178 Thumbs/*.jpg
+mogrify -resize x1440 Compressed/*.jpg
+mogrify -resize x178 Thumbs/*.jpg
 
 #Optimize the files
 jpegoptim -s -m90 --size=1500 Compressed/*.jpg
