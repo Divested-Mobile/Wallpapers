@@ -1,5 +1,4 @@
 #!/bin/bash
-#DivestOS: A privacy oriented Android distribution
 #Copyright (c) 2017-2019 Divested Computing Group
 #
 #This program is free software: you can redistribute it and/or modify
