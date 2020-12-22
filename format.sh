@@ -38,6 +38,9 @@ rename "-" "_" Compressed/*.jpg Thumbs/*.jpg
 rename "-" "_" Compressed/*.jpg Thumbs/*.jpg
 rename "-" "_" Compressed/*.jpg Thumbs/*.jpg
 
+#Permissions
+chmod 644 */*.jpg;
+
 #TODO: Automatically create CREDITS and wallpapers.xml
 
 echo "Formatting complete!"
