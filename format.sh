@@ -39,7 +39,7 @@ rename "-" "_" Compressed/*.jpg Thumbs/*.jpg
 rename "-" "_" Compressed/*.jpg Thumbs/*.jpg
 
 #Permissions
-chmod 644 */*.jpg;
+. fix_permissions.sh;
 
 #TODO: Automatically create CREDITS and wallpapers.xml
 
